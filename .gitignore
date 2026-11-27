@@ -1,0 +1,44 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+~$*.*
+*.tmp
+
+# IntelliJ IDEA e configurações locais do VS Code
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Angular e Node.js
+node_modules/
+/frontend/.angular/
+/frontend/dist/
+/frontend/out-tsc/
+/frontend/coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Java e Maven
+/backend/**/target/
+/backend/out/
+*.class
+hs_err_pid*.log
+replay_pid*.log
+
+# Ambiente local e segredos
+.env
+.env.*
+!.env.example
+!.env.*.example
+/secrets/
+/frontend/secrets/
+/backend/secrets/
+/infrastructure/secrets/
