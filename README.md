@@ -13,6 +13,10 @@ O objetivo do projeto é facilitar a criação e a organização dessas listas e
 
 O uso de inteligência artificial é restrito ao apoio ao desenvolvimento do projeto.
 
+## Estrutura atual
+
+- `docs/` reúne a documentação do projeto. Consulte o [guia de desenvolvimento](docs/desenvolvimento.md) para conhecer as convenções e o fluxo de revisão.
+
 ## Estrutura futura do monorepo
 
 ```text
